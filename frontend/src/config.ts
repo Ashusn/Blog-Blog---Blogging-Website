@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://backend.pashutoshkulkarni-3cd.workers.dev"
